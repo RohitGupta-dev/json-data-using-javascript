@@ -1,0 +1,22 @@
+{
+    "student": {},
+    "user": {
+        "fields": [
+            "firstname",
+            "lastname",
+            "email"
+        ],
+        "data": [
+            {
+                "firstname": "Rohit User edit",
+                "lastname": "Khan",
+                "email": "furquan.khan@mindmatrix.net"
+            },
+            {
+                "firstname": "Rohit User",
+                "lastname": "Khan",
+                "email": "imran.khan@mindmatrix.net"
+            }
+        ]
+    }
+}
